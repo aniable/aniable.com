@@ -1,8 +1,6 @@
 # aniable.com
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/aniable/anibl)
-![GitHub issues](https://img.shields.io/github/issues/aniable/anibl)
-![GitHub Repo stars](https://img.shields.io/github/stars/aniable/anibl) ![GitHub](https://img.shields.io/github/license/aniable/anibl)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/aniable/aniable.com) ![GitHub issues](https://img.shields.io/github/issues/aniable/aniable.com) ![GitHub Repo stars](https://img.shields.io/github/stars/aniable/aniable.com) ![GitHub](https://img.shields.io/github/license/aniable/aniable.com)
 
 ## License
 
